@@ -74,7 +74,7 @@ You may enter any parameter which can be converted into a string.
 ## Colored Output
 The logger will output a different color based on the log level of the called method. Below a screenshot of how that looks like: 
 <br> <br>
-![img.png](res/img.png)
+![img.png](src/res/img.png)
 
 ## Pattern flags
 
